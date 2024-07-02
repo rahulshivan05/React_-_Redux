@@ -1,0 +1,14 @@
+.kg_item {
+	color: khaki;
+	background-color: khaki;
+}
+
+.kg_span {
+	font-weight: 500;
+	color: orange;
+}
+
+.kg_button {
+	float: right;
+}
+/* you can use only one CSS if you use Global CSS then you only use Global CSS not use Modular CSS */
